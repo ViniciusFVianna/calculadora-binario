@@ -1,4 +1,4 @@
-package br.com.vinicius.vianna.binary_calculator.calculadora_binario
+package br.com.viniciusvianna.calculadora_bnario.calculadora_binario
 
 import io.flutter.embedding.android.FlutterActivity
 
